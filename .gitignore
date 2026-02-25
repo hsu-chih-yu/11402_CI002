@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# Sphinx 編譯產出的資料夾 (包含 HTML, PDF 等)
+docs/build/
+
+# Python 的快取與虛擬環境 (如果 Sphinx 有產生)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# VS Code 的本地設定
+.vscode/
+
+# macOS 的系統隱藏檔
+.DS_Store
