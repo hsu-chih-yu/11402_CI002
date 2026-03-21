@@ -1,3 +1,4 @@
+// Email: s1131456@mail.yzu.edu.tw
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
